@@ -7,9 +7,7 @@ off the Nintendo DS's own "Favorite Color" screen — same palette, shown below.
 
 ## Install
 
-1. Copy the `.bgr` file to `/edgba/themes/` on the SD card — the hidden
-   system folder, reachable from the cartridge's Main Menu → System Folder
-   → themes.
+1. Copy the `.bgr` file to `/edgba/themes/` on the SD card.
 2. In the file manager, browse to the file, open its context menu, and
    choose **Set Theme**.
 
