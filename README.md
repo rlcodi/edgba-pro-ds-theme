@@ -2,22 +2,10 @@
 
 A custom menu theme for the Krikzz EverDrive-GBA PRO.
 
-## Variants
-
-**`dsblue.bgr`**
-- Header/footer: diagonal blue weave
-- Body: white card panel with a faint grid
-- Selection highlight: dark navy, matching the card border, white text
-
-**`dsgrey.bgr`**
-- Header/footer: diagonal grey weave
-- Body: white card panel with a faint grid
-- Selection highlight: dark grey, matching the card border, white text
-
-## Screenshots
-
-![dsblue](screenshots/dsblue.png)
-![dsgrey](screenshots/dsgrey.png)
+- `dsblue.bgr`
+- `dsgrey.bgr`
+- `dscrimson.bgr`
+- `dspink.bgr`
 
 ## Install
 
@@ -26,3 +14,10 @@ A custom menu theme for the Krikzz EverDrive-GBA PRO.
    → themes.
 2. In the file manager, browse to the file, open its context menu, and
    choose **Set Theme**.
+
+## Screenshots
+
+![dsblue](screenshots/dsblue.png)
+![dsgrey](screenshots/dsgrey.png)
+![dscrimson](screenshots/dscrimson.png)
+![dspink](screenshots/dspink.png)
