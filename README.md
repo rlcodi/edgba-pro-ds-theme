@@ -8,7 +8,7 @@ off the Nintendo DS's own "Favorite Color" screen — same palette, shown below.
 ## Install
 
 1. Download the [latest release](https://github.com/rlcodi/edgba-pro-ds-theme/releases/latest).
-2. Copy the `.bgr` file to `/edgba/themes/` on the SD card.
+2. Copy the `.bgr` files to `/edgba/themes/` on the SD card.
 3. Boot the cart, open the Themes folder, highlight a theme, then select and
    set theme.
 
