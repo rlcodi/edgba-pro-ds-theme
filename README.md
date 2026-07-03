@@ -2,13 +2,6 @@
 
 A custom menu theme for the Krikzz EverDrive-GBA PRO.
 
-- `dsblue.bgr`
-- `dsgrey.bgr`
-- `dscrimson.bgr`
-- `dspink.bgr`
-- `dsgreen.bgr`
-- `dsyellow.bgr`
-
 ## Install
 
 1. Copy the `.bgr` file to `/edgba/themes/` on the SD card — the hidden
@@ -17,7 +10,7 @@ A custom menu theme for the Krikzz EverDrive-GBA PRO.
 2. In the file manager, browse to the file, open its context menu, and
    choose **Set Theme**.
 
-## Screenshots
+## Variant Screenshots
 
 <table>
 <tr>
