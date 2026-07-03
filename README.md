@@ -19,11 +19,17 @@ A custom menu theme for the Krikzz EverDrive-GBA PRO.
 
 ## Screenshots
 
-| | |
-|:---:|:---:|
-| **`dsblue.bgr`** | **`dsgrey.bgr`** |
-| ![dsblue](screenshots/dsblue.png) | ![dsgrey](screenshots/dsgrey.png) |
-| **`dscrimson.bgr`** | **`dspink.bgr`** |
-| ![dscrimson](screenshots/dscrimson.png) | ![dspink](screenshots/dspink.png) |
-| **`dsgreen.bgr`** | **`dsyellow.bgr`** |
-| ![dsgreen](screenshots/dsgreen.png) | ![dsyellow](screenshots/dsyellow.png) |
+<table>
+<tr>
+<td align="center"><code>dsblue.bgr</code><br><img src="screenshots/dsblue.png" width="360"></td>
+<td align="center"><code>dsgrey.bgr</code><br><img src="screenshots/dsgrey.png" width="360"></td>
+</tr>
+<tr>
+<td align="center"><code>dscrimson.bgr</code><br><img src="screenshots/dscrimson.png" width="360"></td>
+<td align="center"><code>dspink.bgr</code><br><img src="screenshots/dspink.png" width="360"></td>
+</tr>
+<tr>
+<td align="center"><code>dsgreen.bgr</code><br><img src="screenshots/dsgreen.png" width="360"></td>
+<td align="center"><code>dsyellow.bgr</code><br><img src="screenshots/dsyellow.png" width="360"></td>
+</tr>
+</table>
