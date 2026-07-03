@@ -1,6 +1,9 @@
 # EDGBA PRO — Nintendo DS theme
 
-A custom menu theme for the Krikzz EverDrive-GBA PRO.
+A menu theme for the EverDrive GBA PRO, done up in all 16 colors straight
+off the Nintendo DS's own "Choose Color" screen — same palette, shown below.
+
+<img src="screenshots/reference.png" width="400">
 
 ## Install
 
@@ -11,11 +14,6 @@ A custom menu theme for the Krikzz EverDrive-GBA PRO.
    choose **Set Theme**.
 
 ## Variant Screenshots
-
-All 16 colors from the Nintendo DS System Settings "Choose Color" palette,
-shown below on the bottom screen — the reference for these variants.
-
-<img src="screenshots/reference.png" width="400">
 
 <table>
 <tr>
