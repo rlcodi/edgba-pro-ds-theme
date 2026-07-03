@@ -6,6 +6,8 @@ A custom menu theme for the Krikzz EverDrive-GBA PRO.
 - `dsgrey.bgr`
 - `dscrimson.bgr`
 - `dspink.bgr`
+- `dsgreen.bgr`
+- `dsyellow.bgr`
 
 ## Install
 
@@ -17,7 +19,11 @@ A custom menu theme for the Krikzz EverDrive-GBA PRO.
 
 ## Screenshots
 
-![dsblue](screenshots/dsblue.png)
-![dsgrey](screenshots/dsgrey.png)
-![dscrimson](screenshots/dscrimson.png)
-![dspink](screenshots/dspink.png)
+| | |
+|:---:|:---:|
+| **`dsblue.bgr`** | **`dsgrey.bgr`** |
+| ![dsblue](screenshots/dsblue.png) | ![dsgrey](screenshots/dsgrey.png) |
+| **`dscrimson.bgr`** | **`dspink.bgr`** |
+| ![dscrimson](screenshots/dscrimson.png) | ![dspink](screenshots/dspink.png) |
+| **`dsgreen.bgr`** | **`dsyellow.bgr`** |
+| ![dsgreen](screenshots/dsgreen.png) | ![dsyellow](screenshots/dsyellow.png) |
