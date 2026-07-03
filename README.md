@@ -1,7 +1,7 @@
 # EDGBA PRO — Nintendo DS theme
 
-A menu theme for the EverDrive GBA PRO, done up in all 16 colors straight
-off the Nintendo DS's "Favorite Color" palette, shown below.
+A menu theme for the EverDrive GBA PRO inspired by the Nintendo DS's
+"Favorite Color" palette.
 
 <img src="screenshots/reference.png" width="400">
 
