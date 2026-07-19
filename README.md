@@ -5,7 +5,7 @@ A menu theme for the EverDrive GBA PRO inspired by the Nintendo DS's
 
 <p>
   <img src="screenshots/reference.png" width="384">
-  <img src="screenshots/dsmint-device.jpg" width="384">
+  <img src="screenshots/dsdevice-v1.2.jpg" width="384">
 </p>
 
 ## Install
