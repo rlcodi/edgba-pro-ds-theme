@@ -4,8 +4,8 @@ A menu theme for the EverDrive GBA PRO inspired by the Nintendo DS's
 "Favorite Color" palette.
 
 <p>
-  <img src="screenshots/reference.png" width="300">
-  <img src="screenshots/dsmint-device.jpg" width="400">
+  <img src="screenshots/reference.png" width="384">
+  <img src="screenshots/dsmint-device.jpg" width="384">
 </p>
 
 ## Install
